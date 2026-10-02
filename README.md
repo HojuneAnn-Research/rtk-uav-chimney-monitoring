@@ -14,8 +14,8 @@ vertical component the settlement.
 *Surveys 1 and 4 of the study seen from the side. The offset in step 3 is drawn 20 times larger
 than measured.*
 
-It is the code of the paper *Marker-Free Inclination and Settlement Monitoring of Tall
-Industrial Chimneys Using GCP-Free RTK-UAV Point Clouds: A Scaled-Model Feasibility Study*
+It is the code of the paper *Inclination and Settlement Monitoring of Tall Industrial
+Chimneys Using GCP-Free RTK-UAV Point Clouds: A Scaled-Model Feasibility Study*
 by Hojune Ann, Ningji Huang and Ki-Young Koo (University of Exeter).
 
 Results in the paper (1.6 m scaled chimney model, seven imposed tilt and settlement cases,
